@@ -1,0 +1,124 @@
+[
+  {
+    "id": "101464",
+    "name": "Pure Aero Team RAFA Unstrung",
+    "pageUrl": "/rackets/101464",
+    "colors": ["Yellow Orange Purple"],
+    "price": 229.0,
+    "gripSizes": [
+      "4'\"",
+      "4 1/8\"",
+      "4 1/4\"",
+      "4 3/8\"",
+      "4 1/2\"",
+      "4 5/8\""
+    ],
+    "images": [
+      "/products/rackets/babolat/101464-Pure_Aero_Rafa_Team-100-6-Zoom_heart.png",
+      "/products/rackets/babolat/101464-Pure_Aero_Rafa_Team-100-4-Horizontal.png",
+      "/products/rackets/babolat/101464-Pure_Aero_Rafa_Team-100-3-3_4_right.png"
+    ],
+    "desciption": "Dedication, grit, humility. It's time to channel your inner Rafa with a Pure Aero designed by the man himself. Warning: side effects include dominating the game with spin and power. The Pure Aero Rafa Team brings spin and power to your game, in lighter weight and an easier-to-maneuver package.",
+    "technicalCharacteristics": {
+      "headSize": "645 cm² / 100 in²",
+      "unstrungWeight": "285 g +/- 7g / 10 oz",
+      "stringingPattern": "16/19",
+      "section": "23-26-23",
+      "recommendedString": "RPM Blast / RPM Rough",
+      "recommendedGrip": "Syntec Pro",
+      "length": "685 mm / 27 in",
+      "unstrungBalance": "320 mm +/- 7mm",
+      "raStiffness": "71",
+      "composition": "Graphite",
+      "recommendedTension": "23-27 Kg",
+      "strungOrUnstrung": "Unstrung"
+    }
+  },
+  {
+    "id": "101406",
+    "name": "Pure Strike 16/19 Unstrung",
+    "pageUrl": "/rackets/101406",
+    "colors": ["White Red Black"],
+    "price": 229.0,
+    "gripSizes": ["4 1/8\"", "4 1/4\"", "4 3/8\"", "4 1/2\"", "4 5/8\""],
+    "images": [
+      "/products/rackets/babolat/102406-Pure_Strike_16_19-323-1-face.png",
+      "/products/rackets/babolat/101406-Pure__Strike_16-19-100-6-Zoom_heart.png",
+      "/products/rackets/babolat/101406-Pure__Strike_16-19-100-5-bumper.png",
+      "/products/rackets/babolat/101406-Pure__Strike_16-19-100-3-3_4_left.png",
+      "/products/rackets/babolat/101406-Pure__Strike_16-19-100-2-3_4_right.png",
+      "/products/rackets/babolat/101406-Pure__Strike_16_19-100-4-Horizontal.png"
+    ],
+    "desciption": "Nothing compares to the feeling of hitting the exact spot you aimed for. Feel the Pure Strike's sharp control as you hit hard with full confidence, control the game on your terms, and keep all the pressure on your opponent. With the 3rd generation of the Pure Strike, Babolat Evolves control for the modern game. Dream of that classic feel? The Pure Strike's sharp control is engineered to meet your demands as an aggressive hard-hitting player, combining dynamic control and pure feel for unprecedented response so you can own the court with every shot. Looking for control and stability on every shot? Check out the Pure Strike 16/19 and see what the benchmark for the modern game can do to your tennis.",
+    "technicalCharacteristics": {
+      "headSize": "630 cm² / 98 in²",
+      "unstrungWeight": "305 g +/- 7g / 10.8 oz",
+      "stringingPattern": "16/19",
+      "section": "21-23-21",
+      "recommendedString": "RPM Blast/VS",
+      "recommendedGrip": "Syntec Team",
+      "length": "685 mm / 27 in",
+      "unstrungBalance": "320 mm +/- 7mm",
+      "raStiffness": "70",
+      "composition": "Graphite",
+      "recommendedTension": "23-27 Kg",
+      "strungOrUnstrung": "Unstrung"
+    }
+  },
+  {
+    "id": "036500",
+    "name": "Ultra 100L v3 Tennis Racket",
+    "pageUrl": "/rackets/036500",
+    "colors": ["Blue Silver Black"],
+    "price": 229.0,
+    "gripSizes": ["4'\"", "4 1/8\"", "4 1/4\"", "4 3/8\"", "4 1/2\""],
+    "images": [
+      "/products/rackets/wilson/ultra-100l-v3-front-unstrung.png",
+      "/products/rackets/wilson/ultra-100l-v3-front.png",
+      "/products/rackets/wilson/ultra-100l-v3-3_4-left.png"
+    ],
+    "desciption": "Lightweight in composition yet dripping with explosiveness, the Ultra 100L v3 redefines easy power for players who prefer flatter, horizontal swings. The lightweight construction of this frame supplies enticing maneuverability for optimal net play and more comfortable swings, while a number of all-new PowerProfile geometries induce power and augment torsional stability through the swing. These geometries include added volume at 3 & 9, extension of cross strings with added grommet movement, and a taper with more cross section mass. Sporting a glistening gloss finish wrapped around a clean tri-colored design, the Ultra 100L v3 takes the heat up a notch with optimal power, appealing maneuverability and increased torsional stability.",
+    "technicalCharacteristics": {
+      "headSize": "645 cm² / 100 in²",
+      "unstrungWeight": "280 g +/- 7g / 9.88 oz",
+      "stringingPattern": "16/19",
+      "section": "24-26-23",
+      "recommendedString": "RPM Blast/VS",
+      "recommendedGrip": "Syntec Team",
+      "length": "685 mm / 27 in",
+      "unstrungBalance": "320 mm +/- 7mm",
+      "raStiffness": "70",
+      "composition": "Graphite",
+      "recommendedTension": "23-27 Kg",
+      "strungOrUnstrung": "Unstrung"
+    }
+  },
+  {
+    "id": "043700",
+    "name": "Pro Staff RF97 v13 Tennis Racket",
+    "pageUrl": "/rackets/043700",
+    "colors": ["Black"],
+    "price": 279.0,
+    "gripSizes": ["4 1/8\"", "4 1/4\"", "4 3/8\"", "4 1/2\"", "4 5/8\""],
+    "images": [
+      "/products/rackets/wilson/pro-staff-rf97-v13-unstrung-front.png",
+      "/products/rackets/wilson/pro-staff-rf97-v13-front.png",
+      "/products/rackets/wilson/pro-staff-rf97-v13-3_4-left.png"
+    ],
+    "desciption": "The personal racket of a 20x major champion, the Pro Staff RF97 v13 delivers premium performance and sleek design fit for a legend. Featuring the same specifications and composition as its predecessor, this racket caters to avid Roger Federer and Pro Staff fans by maintaining the signature precision and pure feel emblematic of the Pro Staff series. Racket design sports black elastic base, exposed carbon fiber weave with gloss finish at the tip above the 3 & 9, and two-toned pinstripes along the throat with a modern font treatment. ",
+    "technicalCharacteristics": {
+      "headSize": "626 cm² / 97 in²",
+      "unstrungWeight": "339 g +/- 11g / 11.98 oz",
+      "stringingPattern": "16/19",
+      "section": "24-26-23",
+      "recommendedString": "RPM Blast/VS",
+      "recommendedGrip": "Syntec Team",
+      "length": "686 mm / 27 in",
+      "unstrungBalance": "320 mm +/- 7mm",
+      "raStiffness": "70",
+      "composition": "Graphite",
+      "recommendedTension": "23-27 Kg",
+      "strungOrUnstrung": "Unstrung"
+    }
+  }
+]

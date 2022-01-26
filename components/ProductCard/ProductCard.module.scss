@@ -1,0 +1,14 @@
+.card {
+  height: 385px;
+  padding-bottom: 36px;
+  width: calc(25% - 15px);
+
+  &Content {
+    max-width: 256px;
+    transition: 0.1s ease-in-out 0s;
+    &:hover {
+      background: linear-gradient(180deg, hsla(0, 0%, 100%, 0) 47.92%, #fff);
+      transform: scale(1.1);
+    }
+  }
+}
