@@ -67,7 +67,7 @@ const RacketPage: NextPage<RacketPage> = ({ racket }) => {
         <section className="flex flex-col bg-gray-50 px-10 pt-10 pb-10">
           <h2 className="mb-10 text-xl font-bold">Description</h2>
           <p className="font-medium leading-relaxed font-sans text-lg">
-            {racket.desciption}
+            {racket.description}
           </p>
         </section>
         <section className="flex flex-col bg-slate-600 px-10 pt-10 pb-10">

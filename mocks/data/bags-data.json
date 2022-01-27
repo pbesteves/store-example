@@ -1,18 +1,18 @@
 [
   {
-    "id": "751215",
     "name": "RH12 Pure Aero Rafa",
-    "pageUrl": "/bags/751215",
+    "brand": "Babolat",
+    "path": "/bags/0",
     "colors": ["Black Orange Purple"],
     "price": 149.95,
     "images": [
-      "/products/bags/babolat/babolat-x12-pure-aero-rafa-2-Face.png",
-      "/products/bags/babolat/babolat-x12-pure-aero-rafa-3-Back.png",
-      "/products/bags/babolat/babolat-x12-pure-aero-rafa-3_4-Face.png",
-      "/products/bags/babolat/babolat-x12-pure-aero-rafa-left.png",
-      "/products/bags/babolat/babolat-x12-pure-aero-rafa-right.png"
+      "/products/bags/babolat/0-babolat-x12-pure-aero-rafa-2-Face.png",
+      "/products/bags/babolat/0-babolat-x12-pure-aero-rafa-3-Back.png",
+      "/products/bags/babolat/0-babolat-x12-pure-aero-rafa-3_4-Face.png",
+      "/products/bags/babolat/0-babolat-x12-pure-aero-rafa-left.png",
+      "/products/bags/babolat/0-babolat-x12-pure-aero-rafa-right.png"
     ],
-    "desciption": "Own the court from the moment you step onto it. Room for up to 12 racquets, tennis gear, and trophies. With three main compartments, including an Isothermal racquet compartment, shoe storage, ventilation, multiple accessory pockets…this bag lets you organize and carry it all. And travel is easy: use the padded backpack straps or the quick grab handles as you head to the courts. All in the colors of the Pure Aero Rafa.",
+    "description": "Own the court from the moment you step onto it. Room for up to 12 racquets, tennis gear, and trophies. With three main compartments, including an Isothermal racquet compartment, shoe storage, ventilation, multiple accessory pockets…this bag lets you organize and carry it all. And travel is easy: use the padded backpack straps or the quick grab handles as you head to the courts. All in the colors of the Pure Aero Rafa.",
     "technicalCharacteristics": {
       "racketCapacity": "12",
       "dimensions": "75 x 48 x 32 cm / 30 x 19 x 13 in",
@@ -32,20 +32,20 @@
     }
   },
   {
-    "id": "751201",
     "name": "RH12 Pure Strike",
-    "pageUrl": "/bags/751201",
+    "brand": "Babolat",
+    "path": "/bags/1",
     "colors": ["White Red"],
     "price": 129.95,
     "images": [
-      "/products/bags/babolat/751201-RH12_PURE_STRIKE-149-1-3-4_Face.png",
-      "/products/bags/babolat/751201-RH12_PURE_STRIKE-149-2-Side.png",
-      "/products/bags/babolat/751201-RH12_PURE_STRIKE-149-3-3-4_backside.png",
-      "/products/bags/babolat/751201-RH12_PURE_STRIKE-149-4-Top.png",
-      "/products/bags/babolat/751201-RH12_PURE_STRIKE-149-5-Zoom_Material.png",
-      "/products/bags/babolat/751201-RH12_PURE_STRIKE-149-6-Bottom.png"
+      "/products/bags/babolat/1-RH12_PURE_STRIKE-149-1-3-4_Face.png",
+      "/products/bags/babolat/1-RH12_PURE_STRIKE-149-2-Side.png",
+      "/products/bags/babolat/1-RH12_PURE_STRIKE-149-3-3-4_backside.png",
+      "/products/bags/babolat/1-RH12_PURE_STRIKE-149-4-Top.png",
+      "/products/bags/babolat/1-RH12_PURE_STRIKE-149-5-Zoom_Material.png",
+      "/products/bags/babolat/1-RH12_PURE_STRIKE-149-6-Bottom.png"
     ],
-    "desciption": "Want the same bag as the pros? Need a bag that can carry 12 racquets and all your gear? Whether you’re competing on tour or need to carry lots of racquet, the RH12 Pure Strike has got you covered. With three main compartments, including an Isothermal racquet compartment, shoe storage, ventilation, multiple accessory pockets… this bag lets you organize and carry it all. And travel is easy: use the padded backpack straps or the quick grab handles as you head to the courts.",
+    "description": "Want the same bag as the pros? Need a bag that can carry 12 racquets and all your gear? Whether you’re competing on tour or need to carry lots of racquet, the RH12 Pure Strike has got you covered. With three main compartments, including an Isothermal racquet compartment, shoe storage, ventilation, multiple accessory pockets… this bag lets you organize and carry it all. And travel is easy: use the padded backpack straps or the quick grab handles as you head to the courts.",
     "technicalCharacteristics": {
       "racketCapacity": "12",
       "dimensions": "75 x 32 x 48 cm / 30 x 13 x 19 in",
@@ -62,17 +62,17 @@
     }
   },
   {
-    "id": "801040",
     "name": "Pro Staff v13 Super Tour 15 Pack",
-    "pageUrl": "/bags/801040",
+    "brand": "Wilson",
+    "path": "/bags/2",
     "colors": ["Black"],
     "price": 139.0,
     "images": [
-      "/products/bags/wilson/wilson-super-tour-pro-staff-15-pack-front.png",
-      "/products/bags/wilson/wilson-super-tour-pro-staff-15-pack-back.png",
-      "/products/bags/wilson/wilson-super-tour-pro-staff-15-pack-3_4.png"
+      "/products/bags/wilson/2-wilson-super-tour-pro-staff-15-pack-front.png",
+      "/products/bags/wilson/2-wilson-super-tour-pro-staff-15-pack-back.png",
+      "/products/bags/wilson/2-wilson-super-tour-pro-staff-15-pack-3_4.png"
     ],
-    "desciption": "Marrying a design that pays tribute to the iconic Pro Staff franchise with top-tier functional performance, the Super Tour Pro Staff Collection is designed for tennis purists worldwide. This Pro Staff 15 Pack bag comprises three main compartments, two of which are lined with Thermoguard to protect contents from extreme heat. Additional features include a pair of large exterior side pockets, a ventilated shoe pocket, a dual carrying system and reinforced side panels that help prevent fabric from ripping at the seams.",
+    "description": "Marrying a design that pays tribute to the iconic Pro Staff franchise with top-tier functional performance, the Super Tour Pro Staff Collection is designed for tennis purists worldwide. This Pro Staff 15 Pack bag comprises three main compartments, two of which are lined with Thermoguard to protect contents from extreme heat. Additional features include a pair of large exterior side pockets, a ventilated shoe pocket, a dual carrying system and reinforced side panels that help prevent fabric from ripping at the seams.",
     "technicalCharacteristics": {
       "racketCapacity": "15",
       "dimensions": "73.5 x 40.5 x 33 cm / 29 x 16 x 13 in",
@@ -89,17 +89,17 @@
     }
   },
   {
-    "id": "800600",
     "name": "RF DNA 12 Pack",
-    "pageUrl": "/bags/800600",
+    "brand": "Wilson",
+    "path": "/bags/3",
     "colors": ["Infrared", "Black"],
     "price": 199.0,
     "images": [
-      "/products/bags/wilson/rf-dna-12-pack-wr800600-front.png",
-      "/products/bags/wilson/rf-dna-12-pack-wr800600-back.png",
-      "/products/bags/wilson/rf-dna-12-pack-wr800600-3_4.png"
+      "/products/bags/wilson/3-rf-dna-12-pack-wr800600-front.png",
+      "/products/bags/wilson/3-rf-dna-12-pack-wr800600-back.png",
+      "/products/bags/wilson/3-rf-dna-12-pack-wr800600-3_4.png"
     ],
-    "desciption": "The latest evolution of the RF DNA 12 Pack embodies the premium, classic style of Roger's collection with state-of-the-art design and functionality for tennis players. New features include a small hidden accessory compartment between the two main compartments for valuables, a new and improved carrying system with padded ergonomic backpack straps that are easier on the shoulders, and adjustable gusset stops that improve the flexibility of the bag when opening. Federer fans can also appreciate Roger's legendary signature emblazoned on each side.",
+    "description": "The latest evolution of the RF DNA 12 Pack embodies the premium, classic style of Roger's collection with state-of-the-art design and functionality for tennis players. New features include a small hidden accessory compartment between the two main compartments for valuables, a new and improved carrying system with padded ergonomic backpack straps that are easier on the shoulders, and adjustable gusset stops that improve the flexibility of the bag when opening. Federer fans can also appreciate Roger's legendary signature emblazoned on each side.",
     "technicalCharacteristics": {
       "racketCapacity": "12",
       "dimensions": "76 x 38 x 34 cm / 30 x 15 x 13.5 in",

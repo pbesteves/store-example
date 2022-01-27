@@ -13,7 +13,7 @@ export default function ProductCard({ product }: IProductCard) {
   const cardContentClasses = `${styles.cardContent} block md:flex flex-col items-center w-full h-full text-center md:justify-between`;
   return (
     <li className={cardClasses}>
-      <Link href={product.pageUrl}>
+      <Link href={product.path}>
         <a className={cardContentClasses}>
           <div className="relative">
             <Image
